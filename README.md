@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0344-reverse-string) |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
