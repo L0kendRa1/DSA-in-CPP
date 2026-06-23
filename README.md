@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1903-largest-odd-number-in-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
 | ------- |
