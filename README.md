@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1021-remove-outermost-parentheses) |
+| [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -55,8 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0237-delete-node-in-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
