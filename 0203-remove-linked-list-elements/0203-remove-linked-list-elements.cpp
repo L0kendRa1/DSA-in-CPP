@@ -11,9 +11,6 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        if(head==NULL){
-            return head;
-        }
         while(head && head->val == val){
             ListNode* temp = head;
             head = head->next;
