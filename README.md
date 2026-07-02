@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
+| [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0344-reverse-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -79,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0142-linked-list-cycle-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
