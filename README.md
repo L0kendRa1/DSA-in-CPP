@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0009-palindrome-number) |
 | [1903-largest-odd-number-in-string](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
