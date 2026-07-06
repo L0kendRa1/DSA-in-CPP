@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
+| [1288-remove-covered-intervals](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1288-remove-covered-intervals) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
@@ -101,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
