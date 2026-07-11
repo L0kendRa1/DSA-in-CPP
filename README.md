@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1288-remove-covered-intervals) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
