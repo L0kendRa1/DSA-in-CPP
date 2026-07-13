@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
+| [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
 | [1288-remove-covered-intervals](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1288-remove-covered-intervals) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
