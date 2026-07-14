@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -119,8 +121,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
