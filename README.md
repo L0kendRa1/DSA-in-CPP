@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0739-daily-temperatures) |
 | [1288-remove-covered-intervals](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1288-remove-covered-intervals) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0901-online-stock-span) |
 | [2487-remove-nodes-from-linked-list](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
