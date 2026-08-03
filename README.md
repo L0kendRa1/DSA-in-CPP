@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0739-daily-temperatures) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0901-online-stock-span) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
