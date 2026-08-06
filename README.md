@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0739-daily-temperatures) |
+| [1004-max-consecutive-ones-iii](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1288-remove-covered-intervals) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1004-max-consecutive-ones-iii) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
@@ -147,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/L0kendRa1/DSA-in-CPP/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
